@@ -9,9 +9,13 @@ RARA 的 Blender 扩展分发仓库。
 3. 将本仓库 [`scripts/add_repo.py`](scripts/add_repo.py) 的全部代码复制粘贴进去
 4. 点击运行按钮（▶）或按 `Alt+P`
 
+![脚本编辑器截图](images/%E9%85%8D%E5%9B%BE-%E8%84%9A%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8%E6%88%AA%E5%9B%BE.png)
+
 脚本会自动完成：添加远程仓库 → 同步插件列表 → 启用筛选并切换到 RARA 插件库 → 保存偏好设置。
 
 之后在 `偏好设置 → Get Extensions` 即可直接安装本仓库的全部插件。
+
+![配置完成后的偏好设置界面](images/%E9%85%8D%E5%9B%BE-%E9%85%8D%E7%BD%AE%E5%AE%8C%E6%88%90%E5%90%8E%E7%9A%84%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA.png)
 
 > 也可以直接从 `https://raw.githubusercontent.com/raracannot/extensions/main/scripts/add_repo.py` 复制代码。
 
