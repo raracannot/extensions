@@ -107,6 +107,29 @@
       "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.1/better_experie-1.0.1.zip",
       "archive_size": 701936,
       "archive_hash": "sha256:604960d70d55ac9a110d9477c30a46f8da0bf22478bd14d6f1a1073966c86d6c"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "spot_healing_brush",
+      "name": "Spot Healing Brush (污点修复笔刷)",
+      "tagline": "污点修复笔刷",
+      "version": "1.0.1",
+      "type": "add-on",
+      "maintainer": "来一点咖啡吗（RARA）",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 来一点咖啡吗（RARA）"
+      ],
+      "tags": [
+        "Paint"
+      ],
+      "archive_url": "https://github.com/raracannot/Spot_Healing_Brush/releases/download/v1.0.1/spot_healing_brush-1.0.1.zip",
+      "archive_size": 296023534,
+      "archive_hash": "sha256:2477e2e22c603cac66e20c91c375da3db617d8a295162fbb04886fcbc0b02e75"
     }
   ]
 }
