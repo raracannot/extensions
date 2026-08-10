@@ -14,6 +14,7 @@ https://raracannot.github.io/extensions/index.json
 
 | 扩展 | 版本 | 说明 |
 | --- | --- | --- |
+| Better_Experie[更好的体验] | 1.0.1 | 优化原生体验、扩展功能的 Blender 插件合集 |
 | MoI 3D Bridge | 0.0.1 | 通过 MoI 3D 后台转换并导入 STP 和 3DM 文件 |
 | 专业灯光 HUD | 0.0.1 | 优化界面灯光HUD，还你最纯净的打光体验 |
 | 导入PDF | 1.0.0 | 导入PDF为曲线 |
