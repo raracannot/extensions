@@ -1,0 +1,80 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "import_stp_by_moi",
+      "name": "MoI 3D Bridge",
+      "tagline": "通过 MoI 3D 后台转换并导入 STP 和 3DM 文件",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "来一点咖啡吗(RARA)",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 来一点咖啡吗(RARA)"
+      ],
+      "tags": [
+        "Import-Export"
+      ],
+      "archive_url": "https://github.com/raracannot/import_stp_by_moi/releases/download/v0.0.1/import_stp_by_moi-0.0.1.zip",
+      "archive_size": 4744,
+      "archive_hash": "sha256:cfc77f97a0d32e5374a243910679330c05324ed4b1726ac863d23b02f939dcad"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "pure_light_hud",
+      "name": "专业灯光 HUD",
+      "tagline": "优化界面灯光HUD，还你最纯净的打光体验",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "RARA",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 RARA"
+      ],
+      "tags": [
+        "Lighting"
+      ],
+      "archive_url": "https://github.com/raracannot/pure_light_hud/releases/download/v0.0.1/pure_light_hud-0.0.1.zip",
+      "archive_size": 9671,
+      "archive_hash": "sha256:555fcb80a9c7c4bf7cde52d96648f3b5bb522b7ca1eda247daef07cebd089402"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "import_pdf_into_blender",
+      "name": "导入PDF",
+      "tagline": "导入PDF为曲线",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "RARA",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 RARA"
+      ],
+      "tags": [
+        "3D View",
+        "Import-Export",
+        "Object"
+      ],
+      "permissions": {
+        "files": "Import PDF from disk"
+      },
+      "archive_url": "https://github.com/raracannot/import_pdf_into_blender/releases/download/v1.0.0/import_pdf_into_blender-1.0.0.zip",
+      "archive_size": 69321129,
+      "archive_hash": "sha256:c8e2dce738d05980b5c75e6d1c439a1f76df7a7b7040662a3c3206add41b60c4"
+    }
+  ]
+}
