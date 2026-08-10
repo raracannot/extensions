@@ -2,7 +2,20 @@
 
 RARA 的 Blender 扩展分发仓库。
 
-## 添加远程仓库
+## 🚀 小白一键配置（推荐）
+
+1. 打开 Blender（4.2 及以上版本）
+2. 打开 **脚本编辑器**（顶部菜单栏切换编辑器类型，或按 `Shift+F11`）
+3. 将本仓库 [`scripts/add_repo.py`](scripts/add_repo.py) 的全部代码复制粘贴进去
+4. 点击运行按钮（▶）或按 `Alt+P`
+
+脚本会自动完成：添加远程仓库 → 同步插件列表 → 启用筛选并切换到 RARA 插件库 → 保存偏好设置。
+
+之后在 `偏好设置 → Get Extensions` 即可直接安装本仓库的全部插件。
+
+> 也可以直接从 `https://raw.githubusercontent.com/raracannot/extensions/main/scripts/add_repo.py` 复制代码。
+
+## 手动添加远程仓库
 
 在 Blender 中打开 `偏好设置 → Get Extensions → Repositories`，点击 `+` 选择 `Add Remote Repository`，填入：
 
