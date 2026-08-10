@@ -154,6 +154,31 @@
       "archive_url": "https://github.com/raracannot/mini_hdri_tool/releases/download/v0.0.3/mini_hdri_tool-0.0.3.zip",
       "archive_size": 173359,
       "archive_hash": "sha256:ef7bb713d6092df2b69a9547ef3671bd4a7df9908345d48b88d7ffea63fb852b"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "big_tools",
+      "name": "[test][开发中]网格编辑工具集",
+      "tagline": "网格编辑工具集",
+      "version": "2.3.0",
+      "type": "add-on",
+      "maintainer": "RARA(来一点咖啡吗)",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.1.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 RARA(来一点咖啡吗)"
+      ],
+      "tags": [
+        "3D View",
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "https://github.com/raracannot/Big_tools/releases/download/v2.3.0/big_tools-2.3.0.zip",
+      "archive_size": 290147,
+      "archive_hash": "sha256:e6f25a5430f6102f7c0d88561a7add0b6ec5bdb337297db92c4f2f8af61dd6d9"
     }
   ]
 }
