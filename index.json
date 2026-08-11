@@ -160,7 +160,7 @@
       "id": "big_tools",
       "name": "[test][开发中]网格编辑工具集",
       "tagline": "网格编辑工具集",
-      "version": "2.3.0",
+      "version": "2.3.1",
       "type": "add-on",
       "maintainer": "RARA(来一点咖啡吗)",
       "license": [
@@ -176,9 +176,9 @@
         "Mesh",
         "Modeling"
       ],
-      "archive_url": "https://github.com/raracannot/Big_tools/releases/download/v2.3.0/big_tools-2.3.0.zip",
-      "archive_size": 290147,
-      "archive_hash": "sha256:e6f25a5430f6102f7c0d88561a7add0b6ec5bdb337297db92c4f2f8af61dd6d9"
+      "archive_url": "https://github.com/raracannot/Big_tools/releases/download/v2.3.1/big_tools-2.3.1.zip",
+      "archive_size": 158672,
+      "archive_hash": "sha256:a3e7fb0eec5815acfe9124019d5f55d6ae3d1b383207ab63ef23868ea8fda2fb"
     }
   ]
 }
