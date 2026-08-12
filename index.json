@@ -179,6 +179,100 @@
       "archive_url": "https://github.com/raracannot/Big_tools/releases/download/v2.3.1/big_tools-2.3.1.zip",
       "archive_size": 158672,
       "archive_hash": "sha256:a3e7fb0eec5815acfe9124019d5f55d6ae3d1b383207ab63ef23868ea8fda2fb"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "edge_extrude",
+      "name": "挤出边",
+      "tagline": "Extrude selected mesh edges with live width and height controls",
+      "version": "1.9.15",
+      "type": "add-on",
+      "maintainer": "CYX",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 CYX"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/edge_extrude-1.9.15.zip",
+      "archive_size": 1720285,
+      "archive_hash": "sha256:2ccd60bdda956fd34a8b86c63d1e7db3ac7d688dca1268387f07ea6ad358f0dd"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hide_pie",
+      "name": "隐藏饼菜单",
+      "tagline": "集合所有隐藏功能的饼菜单",
+      "version": "1.8.5",
+      "type": "add-on",
+      "maintainer": "CYX",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "2.80.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 CYX"
+      ],
+      "tags": [
+        "All"
+      ],
+      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/hide_pie-1.8.5.zip",
+      "archive_size": 23901,
+      "archive_hash": "sha256:5441aaa21621b5e20585a3c77d971e7aa804267a78a4e71da8fbf0553fedb131"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "one_click_hole",
+      "name": "一键布线开洞",
+      "tagline": "编辑模式的一键布线开洞",
+      "version": "1.0.11",
+      "type": "add-on",
+      "maintainer": "CYX",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.0.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+        "2026 CYX"
+      ],
+      "tags": [
+        "Mesh"
+      ],
+      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/one_click_hole-1.0.11.zip",
+      "archive_size": 17895,
+      "archive_hash": "sha256:db0fc81482d3c928413cbb13a30e178495ca5ce7e97258de16497075dc164dbb"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "rainbow_noodle_line",
+      "name": "彩虹节点曲线",
+      "tagline": "为节点编辑器的相连节点显示彩虹曲线和彩虹边框",
+      "version": "1.0.6",
+      "type": "add-on",
+      "maintainer": "Shuimeng",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.1.0",
+      "website": "",
+      "copyright": [
+        "2026 Shuimeng",
+        "2023 Blender Foundation"
+      ],
+      "tags": [
+        "Node"
+      ],
+      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/rainbow_noodle_line-1.0.6.zip",
+      "archive_size": 30767,
+      "archive_hash": "sha256:0ca6e4d6a6c8c3a382f385d446877d05074cfc45a1891e1a7d73e74363fa709e"
     }
   ]
 }

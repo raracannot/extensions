@@ -38,6 +38,10 @@ https://raracannot.github.io/extensions/index.json
 | MoI 3D Bridge | 0.0.1 | 通过 MoI 3D 后台转换并导入 STP 和 3DM 文件 |
 | 专业灯光 HUD | 0.0.1 | 优化界面灯光HUD，还你最纯净的打光体验 |
 | 导入PDF | 1.0.0 | 导入PDF为曲线 |
+| 挤出边 (CYX) | 1.9.15 | Extrude selected mesh edges with live width and height controls |
+| 隐藏饼菜单 (CYX) | 1.8.5 | 集合所有隐藏功能的饼菜单 |
+| 一键布线开洞 (CYX) | 1.0.11 | 编辑模式的一键布线开洞 |
+| 彩虹节点曲线 (Shuimeng) | 1.0.6 | 为节点编辑器的相连节点显示彩虹曲线和彩虹边框 |
 
 ## 更新索引
 
