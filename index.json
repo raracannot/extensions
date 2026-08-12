@@ -192,7 +192,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "website": "https://space.bilibili.com/27284213",
+      "website": "https://space.bilibili.com/289597239",
       "copyright": [
         "2026 CYX"
       ],
@@ -201,8 +201,8 @@
         "Modeling"
       ],
       "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/edge_extrude-1.9.15.zip",
-      "archive_size": 1720285,
-      "archive_hash": "sha256:2ccd60bdda956fd34a8b86c63d1e7db3ac7d688dca1268387f07ea6ad358f0dd"
+      "archive_size": 1720770,
+      "archive_hash": "sha256:82f5bd2f49964e7124482acd543e42fed0c4daab2ab8265263f83a3400a930b0"
     },
     {
       "schema_version": "1.0.0",
@@ -216,7 +216,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "2.80.0",
-      "website": "https://space.bilibili.com/27284213",
+      "website": "https://space.bilibili.com/289597239",
       "copyright": [
         "2026 CYX"
       ],
@@ -224,8 +224,8 @@
         "All"
       ],
       "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/hide_pie-1.8.5.zip",
-      "archive_size": 23901,
-      "archive_hash": "sha256:5441aaa21621b5e20585a3c77d971e7aa804267a78a4e71da8fbf0553fedb131"
+      "archive_size": 24026,
+      "archive_hash": "sha256:41dd7295451a282fac46b10d62254084116b92218e2db26686b1d9d7e855dfe1"
     },
     {
       "schema_version": "1.0.0",
@@ -239,7 +239,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.0.0",
-      "website": "https://space.bilibili.com/27284213",
+      "website": "https://space.bilibili.com/289597239",
       "copyright": [
         "2026 CYX"
       ],
@@ -247,8 +247,8 @@
         "Mesh"
       ],
       "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/one_click_hole-1.0.11.zip",
-      "archive_size": 17895,
-      "archive_hash": "sha256:db0fc81482d3c928413cbb13a30e178495ca5ce7e97258de16497075dc164dbb"
+      "archive_size": 18057,
+      "archive_hash": "sha256:bb797ae91bb7a054f7a81157abbe2d99a58cd46d1f220a6602b25de068a63685"
     },
     {
       "schema_version": "1.0.0",
