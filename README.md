@@ -31,7 +31,7 @@ https://raracannot.github.io/extensions/index.json
 
 | 扩展 | 版本 | 说明 |
 | --- | --- | --- |
-| Better_Experie[更好的体验] | 1.0.1 | 优化原生体验、扩展功能的 Blender 插件合集 |
+| Better_Experie[更好的体验] | 1.0.2 | 优化原生体验、扩展功能的 Blender 插件合集 |
 | Spot Healing Brush (污点修复笔刷) | 1.0.1 | 基于 AI 的污点修复与智能抠图 |
 | HDRI TOOL | 0.0.3 | 快速设置你的HDRI |
 | [test][开发中]网格编辑工具集 | 2.3.1 | 网格编辑工具集 |
