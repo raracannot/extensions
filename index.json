@@ -30,7 +30,7 @@
       "id": "pure_light_hud",
       "name": "专业灯光 HUD",
       "tagline": "优化界面灯光HUD，还你最纯净的打光体验",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "type": "add-on",
       "maintainer": "RARA",
       "license": [
@@ -44,9 +44,9 @@
       "tags": [
         "Lighting"
       ],
-      "archive_url": "https://github.com/raracannot/pure_light_hud/releases/download/v0.0.1/pure_light_hud-0.0.1.zip",
-      "archive_size": 9671,
-      "archive_hash": "sha256:555fcb80a9c7c4bf7cde52d96648f3b5bb522b7ca1eda247daef07cebd089402"
+      "archive_url": "https://github.com/raracannot/pure_light_hud/releases/download/v0.0.2/pure_light_hud-0.0.2.zip",
+      "archive_size": 9831,
+      "archive_hash": "sha256:ee0021456958719a0531d13e4e2ad455ad4421978506d300c558792a45d143a0"
     },
     {
       "schema_version": "1.0.0",
@@ -81,7 +81,7 @@
       "id": "better_experie",
       "name": "Better_Experie[更好的体验]",
       "tagline": "Improve user experience",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "type": "add-on",
       "maintainer": "来一点咖啡吗",
       "license": [
@@ -104,9 +104,9 @@
         "Text Editor",
         "User Interface"
       ],
-      "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.4/better_experie-1.0.4.zip",
-      "archive_size": 714930,
-      "archive_hash": "sha256:ff31df0c834d6642fec277898a957f52daf978d106971278bdaa2bd829b7bf90"
+      "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.5/better_experie-1.0.5.zip",
+      "archive_size": 716541,
+      "archive_hash": "sha256:c02aca302b5ad6b3b75e0748791b0bfa0a02afbc585a29febb002571b570897c"
     },
     {
       "schema_version": "1.0.0",
