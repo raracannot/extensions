@@ -273,6 +273,29 @@
       "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/rainbow_noodle_line-1.0.6.zip",
       "archive_size": 30767,
       "archive_hash": "sha256:0ca6e4d6a6c8c3a382f385d446877d05074cfc45a1891e1a7d73e74363fa709e"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "c4d_remesh",
+      "name": "ZRemesher",
+      "tagline": "最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher",
+      "version": "2.0.2",
+      "type": "add-on",
+      "maintainer": "Maxon",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://www.bilibili.com/video/BV1GJ411x7h7",
+      "copyright": [
+        "2026 Maxon"
+      ],
+      "tags": [
+        "Mesh"
+      ],
+      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/c4d_remesh-2.0.2.zip",
+      "archive_size": 2057584,
+      "archive_hash": "sha256:798a49ebdcaa5b8e0c1dea0e84d91178c59bfac50878f8be0f0f9544acce9a7f"
     }
   ]
 }
