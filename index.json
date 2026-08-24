@@ -279,7 +279,7 @@
       "id": "c4d_remesh",
       "name": "ZRemesher",
       "tagline": "最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "type": "add-on",
       "maintainer": "Maxon",
       "license": [
@@ -293,9 +293,9 @@
       "tags": [
         "Mesh"
       ],
-      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/c4d_remesh-2.0.2.zip",
-      "archive_size": 2057584,
-      "archive_hash": "sha256:798a49ebdcaa5b8e0c1dea0e84d91178c59bfac50878f8be0f0f9544acce9a7f"
+      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/c4d_remesh-2.0.3.zip",
+      "archive_size": 2074957,
+      "archive_hash": "sha256:b65df2150359e4bcf5070601908fa273f2a3ea23d9287c9bd4c6a84a61cd5a42"
     }
   ]
 }
