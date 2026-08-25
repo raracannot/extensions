@@ -1,301 +1,301 @@
 {
-  "version": "v1",
-  "blocklist": [],
-  "data": [
-    {
-      "schema_version": "1.0.0",
-      "id": "import_stp_by_moi",
-      "name": "MoI 3D Bridge",
-      "tagline": "通过 MoI 3D 后台转换并导入 STP 和 3DM 文件",
-      "version": "0.0.1",
-      "type": "add-on",
-      "maintainer": "来一点咖啡吗(RARA)",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 来一点咖啡吗(RARA)"
-      ],
-      "tags": [
-        "Import-Export"
-      ],
-      "archive_url": "https://github.com/raracannot/import_stp_by_moi/releases/download/v0.0.1/import_stp_by_moi-0.0.1.zip",
-      "archive_size": 4744,
-      "archive_hash": "sha256:cfc77f97a0d32e5374a243910679330c05324ed4b1726ac863d23b02f939dcad"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "pure_light_hud",
-      "name": "专业灯光 HUD",
-      "tagline": "优化界面灯光HUD，还你最纯净的打光体验",
-      "version": "0.0.2",
-      "type": "add-on",
-      "maintainer": "RARA",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 RARA"
-      ],
-      "tags": [
-        "Lighting"
-      ],
-      "archive_url": "https://github.com/raracannot/pure_light_hud/releases/download/v0.0.2/pure_light_hud-0.0.2.zip",
-      "archive_size": 9831,
-      "archive_hash": "sha256:ee0021456958719a0531d13e4e2ad455ad4421978506d300c558792a45d143a0"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "import_pdf_into_blender",
-      "name": "导入PDF",
-      "tagline": "导入PDF为曲线",
-      "version": "1.0.0",
-      "type": "add-on",
-      "maintainer": "RARA",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 RARA"
-      ],
-      "tags": [
-        "3D View",
-        "Import-Export",
-        "Object"
-      ],
-      "permissions": {
-        "files": "Import PDF from disk"
-      },
-      "archive_url": "https://github.com/raracannot/import_pdf_into_blender/releases/download/v1.0.0/import_pdf_into_blender-1.0.0.zip",
-      "archive_size": 69321129,
-      "archive_hash": "sha256:c8e2dce738d05980b5c75e6d1c439a1f76df7a7b7040662a3c3206add41b60c4"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "better_experie",
-      "name": "Better_Experie[更好的体验]",
-      "tagline": "Improve user experience",
-      "version": "1.0.6",
-      "type": "add-on",
-      "maintainer": "来一点咖啡吗",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 来一点咖啡吗"
-      ],
-      "tags": [
-        "3D View",
-        "Camera",
-        "Compositing",
-        "Mesh",
-        "Object",
-        "Scene",
-        "Sequencer",
-        "System",
-        "Text Editor",
-        "User Interface"
-      ],
-  "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.6/better_experie-1.0.6.zip",
-  "archive_size": 717544,
-  "archive_hash": "sha256:f81e7996ba6ff35bf105314d53eb90c5fc1d46b203819ce0590d1ded3ee8795f"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "spot_healing_brush",
-      "name": "Spot Healing Brush (污点修复笔刷)",
-      "tagline": "污点修复笔刷",
-      "version": "1.0.1",
-      "type": "add-on",
-      "maintainer": "来一点咖啡吗（RARA）",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 来一点咖啡吗（RARA）"
-      ],
-      "tags": [
-        "Paint"
-      ],
-      "archive_url": "https://github.com/raracannot/Spot_Healing_Brush/releases/download/v1.0.1/spot_healing_brush-1.0.1.zip",
-      "archive_size": 296023534,
-      "archive_hash": "sha256:2477e2e22c603cac66e20c91c375da3db617d8a295162fbb04886fcbc0b02e75"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "mini_hdri_tool",
-      "name": "HDRI TOOL",
-      "tagline": "快速设置你的HDRI",
-      "version": "0.0.3",
-      "type": "add-on",
-      "maintainer": "浪里浇花, 来一点咖啡吗",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.0.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 浪里浇花, 来一点咖啡吗"
-      ],
-      "tags": [
-        "Lighting",
-        "Scene"
-      ],
-      "archive_url": "https://github.com/raracannot/mini_hdri_tool/releases/download/v0.0.3/mini_hdri_tool-0.0.3.zip",
-      "archive_size": 173359,
-      "archive_hash": "sha256:ef7bb713d6092df2b69a9547ef3671bd4a7df9908345d48b88d7ffea63fb852b"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "big_tools",
-      "name": "[test][开发中]网格编辑工具集",
-      "tagline": "网格编辑工具集",
-      "version": "2.3.2",
-      "type": "add-on",
-      "maintainer": "RARA(来一点咖啡吗)",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "5.1.0",
-      "website": "https://space.bilibili.com/27284213",
-      "copyright": [
-        "2026 RARA(来一点咖啡吗)"
-      ],
-      "tags": [
-        "3D View",
-        "Mesh",
-        "Modeling"
-      ],
-      "archive_url": "https://github.com/raracannot/Big_tools/releases/download/v2.3.2/big_tools-2.3.2.zip",
-      "archive_size": 160499,
-      "archive_hash": "sha256:4799e76959ff108653c961bead66782ef9d06a576b153443107a934de50522de"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "edge_extrude",
-      "name": "挤出边",
-      "tagline": "Extrude selected mesh edges with live width and height controls",
-      "version": "1.9.15",
-      "type": "add-on",
-      "maintainer": "CYX",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://space.bilibili.com/289597239",
-      "copyright": [
-        "2026 CYX"
-      ],
-      "tags": [
-        "Mesh",
-        "Modeling"
-      ],
-      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/edge_extrude-1.9.15.zip",
-      "archive_size": 1720770,
-      "archive_hash": "sha256:82f5bd2f49964e7124482acd543e42fed0c4daab2ab8265263f83a3400a930b0"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "hide_pie",
-      "name": "隐藏饼菜单",
-      "tagline": "集合所有隐藏功能的饼菜单",
-      "version": "1.8.5",
-      "type": "add-on",
-      "maintainer": "CYX",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "2.80.0",
-      "website": "https://space.bilibili.com/289597239",
-      "copyright": [
-        "2026 CYX"
-      ],
-      "tags": [
-        "All"
-      ],
-      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/hide_pie-1.8.5.zip",
-      "archive_size": 24026,
-      "archive_hash": "sha256:41dd7295451a282fac46b10d62254084116b92218e2db26686b1d9d7e855dfe1"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "one_click_hole",
-      "name": "一键布线开洞",
-      "tagline": "编辑模式的一键布线开洞",
-      "version": "1.0.11",
-      "type": "add-on",
-      "maintainer": "CYX",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.0.0",
-      "website": "https://space.bilibili.com/289597239",
-      "copyright": [
-        "2026 CYX"
-      ],
-      "tags": [
-        "Mesh"
-      ],
-      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/one_click_hole-1.0.11.zip",
-      "archive_size": 18057,
-      "archive_hash": "sha256:bb797ae91bb7a054f7a81157abbe2d99a58cd46d1f220a6602b25de068a63685"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "rainbow_noodle_line",
-      "name": "彩虹节点曲线",
-      "tagline": "为节点编辑器的相连节点显示彩虹曲线和彩虹边框",
-      "version": "1.0.6",
-      "type": "add-on",
-      "maintainer": "Shuimeng",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "5.1.0",
-      "website": "https://extensions.blender.org/author/3361",
-      "copyright": [
-        "2026 Shuimeng",
-        "2023 Blender Foundation"
-      ],
-      "tags": [
-        "Node"
-      ],
-      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/rainbow_noodle_line-1.0.6.zip",
-      "archive_size": 30767,
-      "archive_hash": "sha256:0ca6e4d6a6c8c3a382f385d446877d05074cfc45a1891e1a7d73e74363fa709e"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "c4d_remesh",
-      "name": "ZRemesher",
-      "tagline": "最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher",
-      "version": "2.0.3",
-      "type": "add-on",
-      "maintainer": "Maxon",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://www.bilibili.com/video/BV1GJ411x7h7",
-      "copyright": [
-        "2026 Maxon"
-      ],
-      "tags": [
-        "Mesh"
-      ],
-      "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/c4d_remesh-2.0.3.zip",
-      "archive_size": 2074957,
-      "archive_hash": "sha256:b65df2150359e4bcf5070601908fa273f2a3ea23d9287c9bd4c6a84a61cd5a42"
-    }
-  ]
+ "version": "v1",
+ "blocklist": [],
+ "data": [
+  {
+   "schema_version": "1.0.0",
+   "id": "import_stp_by_moi",
+   "name": "MoI 3D Bridge",
+   "tagline": "通过 MoI 3D 后台转换并导入 STP 和 3DM 文件",
+   "version": "0.0.1",
+   "type": "add-on",
+   "maintainer": "来一点咖啡吗(RARA)",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.5.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 来一点咖啡吗(RARA)"
+   ],
+   "tags": [
+    "Import-Export"
+   ],
+   "archive_url": "https://github.com/raracannot/import_stp_by_moi/releases/download/v0.0.1/import_stp_by_moi-0.0.1.zip",
+   "archive_size": 4744,
+   "archive_hash": "sha256:cfc77f97a0d32e5374a243910679330c05324ed4b1726ac863d23b02f939dcad"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "pure_light_hud",
+   "name": "专业灯光 HUD",
+   "tagline": "优化界面灯光HUD，还你最纯净的打光体验",
+   "version": "0.0.2",
+   "type": "add-on",
+   "maintainer": "RARA",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.2.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 RARA"
+   ],
+   "tags": [
+    "Lighting"
+   ],
+   "archive_url": "https://github.com/raracannot/pure_light_hud/releases/download/v0.0.2/pure_light_hud-0.0.2.zip",
+   "archive_size": 9831,
+   "archive_hash": "sha256:ee0021456958719a0531d13e4e2ad455ad4421978506d300c558792a45d143a0"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "import_pdf_into_blender",
+   "name": "导入PDF",
+   "tagline": "导入PDF为曲线",
+   "version": "1.0.0",
+   "type": "add-on",
+   "maintainer": "RARA",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.2.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 RARA"
+   ],
+   "tags": [
+    "3D View",
+    "Import-Export",
+    "Object"
+   ],
+   "permissions": {
+    "files": "Import PDF from disk"
+   },
+   "archive_url": "https://github.com/raracannot/import_pdf_into_blender/releases/download/v1.0.0/import_pdf_into_blender-1.0.0.zip",
+   "archive_size": 69321129,
+   "archive_hash": "sha256:c8e2dce738d05980b5c75e6d1c439a1f76df7a7b7040662a3c3206add41b60c4"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "better_experie",
+   "name": "Better_Experie[更好的体验]",
+   "tagline": "Improve user experience",
+   "version": "1.0.6",
+   "type": "add-on",
+   "maintainer": "来一点咖啡吗",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.5.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 来一点咖啡吗"
+   ],
+   "tags": [
+    "3D View",
+    "Camera",
+    "Compositing",
+    "Mesh",
+    "Object",
+    "Scene",
+    "Sequencer",
+    "System",
+    "Text Editor",
+    "User Interface"
+   ],
+   "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.6/better_experie-1.0.6.zip",
+   "archive_size": 717544,
+   "archive_hash": "sha256:f81e7996ba6ff35bf105314d53eb90c5fc1d46b203819ce0590d1ded3ee8795f"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "spot_healing_brush",
+   "name": "Spot Healing Brush (污点修复笔刷)",
+   "tagline": "污点修复笔刷",
+   "version": "1.0.1",
+   "type": "add-on",
+   "maintainer": "来一点咖啡吗（RARA）",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.2.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 来一点咖啡吗（RARA）"
+   ],
+   "tags": [
+    "Paint"
+   ],
+   "archive_url": "https://github.com/raracannot/Spot_Healing_Brush/releases/download/v1.0.1/spot_healing_brush-1.0.1.zip",
+   "archive_size": 296023534,
+   "archive_hash": "sha256:2477e2e22c603cac66e20c91c375da3db617d8a295162fbb04886fcbc0b02e75"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "mini_hdri_tool",
+   "name": "HDRI TOOL",
+   "tagline": "快速设置你的HDRI",
+   "version": "0.0.3",
+   "type": "add-on",
+   "maintainer": "浪里浇花, 来一点咖啡吗",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.0.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 浪里浇花, 来一点咖啡吗"
+   ],
+   "tags": [
+    "Lighting",
+    "Scene"
+   ],
+   "archive_url": "https://github.com/raracannot/mini_hdri_tool/releases/download/v0.0.3/mini_hdri_tool-0.0.3.zip",
+   "archive_size": 173359,
+   "archive_hash": "sha256:ef7bb713d6092df2b69a9547ef3671bd4a7df9908345d48b88d7ffea63fb852b"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "big_tools",
+   "name": "[test][开发中]网格编辑工具集",
+   "tagline": "网格编辑工具集",
+   "version": "2.3.2",
+   "type": "add-on",
+   "maintainer": "RARA(来一点咖啡吗)",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "5.1.0",
+   "website": "https://space.bilibili.com/27284213",
+   "copyright": [
+    "2026 RARA(来一点咖啡吗)"
+   ],
+   "tags": [
+    "3D View",
+    "Mesh",
+    "Modeling"
+   ],
+   "archive_url": "https://github.com/raracannot/Big_tools/releases/download/v2.3.2/big_tools-2.3.2.zip",
+   "archive_size": 160499,
+   "archive_hash": "sha256:4799e76959ff108653c961bead66782ef9d06a576b153443107a934de50522de"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "edge_extrude",
+   "name": "挤出边",
+   "tagline": "Extrude selected mesh edges with live width and height controls",
+   "version": "1.9.15",
+   "type": "add-on",
+   "maintainer": "CYX",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.2.0",
+   "website": "https://space.bilibili.com/289597239",
+   "copyright": [
+    "2026 CYX"
+   ],
+   "tags": [
+    "Mesh",
+    "Modeling"
+   ],
+   "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/edge_extrude-1.9.15.zip",
+   "archive_size": 1720770,
+   "archive_hash": "sha256:82f5bd2f49964e7124482acd543e42fed0c4daab2ab8265263f83a3400a930b0"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "hide_pie",
+   "name": "隐藏饼菜单",
+   "tagline": "集合所有隐藏功能的饼菜单",
+   "version": "1.8.5",
+   "type": "add-on",
+   "maintainer": "CYX",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "2.80.0",
+   "website": "https://space.bilibili.com/289597239",
+   "copyright": [
+    "2026 CYX"
+   ],
+   "tags": [
+    "All"
+   ],
+   "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/hide_pie-1.8.5.zip",
+   "archive_size": 24026,
+   "archive_hash": "sha256:41dd7295451a282fac46b10d62254084116b92218e2db26686b1d9d7e855dfe1"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "one_click_hole",
+   "name": "一键布线开洞",
+   "tagline": "编辑模式的一键布线开洞",
+   "version": "1.0.11",
+   "type": "add-on",
+   "maintainer": "CYX",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.0.0",
+   "website": "https://space.bilibili.com/289597239",
+   "copyright": [
+    "2026 CYX"
+   ],
+   "tags": [
+    "Mesh"
+   ],
+   "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/one_click_hole-1.0.11.zip",
+   "archive_size": 18057,
+   "archive_hash": "sha256:bb797ae91bb7a054f7a81157abbe2d99a58cd46d1f220a6602b25de068a63685"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "rainbow_noodle_line",
+   "name": "彩虹节点曲线",
+   "tagline": "为节点编辑器的相连节点显示彩虹曲线和彩虹边框",
+   "version": "1.0.6",
+   "type": "add-on",
+   "maintainer": "Shuimeng",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "5.1.0",
+   "website": "https://extensions.blender.org/author/3361",
+   "copyright": [
+    "2026 Shuimeng",
+    "2023 Blender Foundation"
+   ],
+   "tags": [
+    "Node"
+   ],
+   "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/rainbow_noodle_line-1.0.6.zip",
+   "archive_size": 30767,
+   "archive_hash": "sha256:0ca6e4d6a6c8c3a382f385d446877d05074cfc45a1891e1a7d73e74363fa709e"
+  },
+  {
+   "schema_version": "1.0.0",
+   "id": "c4d_remesh",
+   "name": "ZRemesher",
+   "tagline": "最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher",
+   "version": "2.0.4",
+   "type": "add-on",
+   "maintainer": "Maxon",
+   "license": [
+    "SPDX:GPL-3.0-or-later"
+   ],
+   "blender_version_min": "4.2.0",
+   "website": "https://www.bilibili.com/video/BV1GJ411x7h7",
+   "copyright": [
+    "2026 Maxon"
+   ],
+   "tags": [
+    "Mesh"
+   ],
+   "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/c4d_remesh-2.0.4.zip",
+   "archive_size": 2070779,
+   "archive_hash": "sha256:df34e3a8a0994a991258023ba734f52fe545bfa26ee32960d93913285bda68f7"
+  }
+ ]
 }

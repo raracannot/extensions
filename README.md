@@ -31,7 +31,7 @@ https://raracannot.github.io/extensions/index.json
 
 | 扩展 | 版本 | 说明 |
 | --- | --- | --- |
-| ZRemesher | 2.0.3 | 最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher |
+| ZRemesher | 2.0.4 | 最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher |
 | Better_Experie[更好的体验] | 1.0.6 | 优化原生体验、扩展功能的 Blender 插件合集 |
 | Spot Healing Brush (污点修复笔刷) | 1.0.1 | 基于 AI 的污点修复与智能抠图 |
 | HDRI TOOL | 0.0.3 | 快速设置你的HDRI |
