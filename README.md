@@ -43,6 +43,7 @@ https://raracannot.github.io/extensions/index.json
 | 一键布线开洞 (CYX) | 1.0.11 | 编辑模式的一键布线开洞 |
 | 彩虹节点曲线 (Shuimeng) | 1.0.6 | 为节点编辑器的相连节点显示彩虹曲线和彩虹边框 |
 | 视口快照 | 0.0.1 | 在3D视图顶部标题栏开启快照对比，设置位于插件偏好设置中 |
+| 导入 C4D | 0.0.1 | 通过 Maxon Cineware SDK 导入 Cinema 4D .c4d |
 
 ## 更新索引
 

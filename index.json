@@ -340,9 +340,35 @@
      "tags": [
       "Development"
      ],
-     "archive_url": "https://github.com/raracannot/make_a_dat_icon/releases/download/v0.0.1/make_a_dat_icon-0.0.1.zip",
-     "archive_size": 3890,
-     "archive_hash": "sha256:24b272f93d28c5e86a07e8903e881f94dd6a636b7bc03062d96a0c2feb425be6"
-    }
-   ]
+      "archive_url": "https://github.com/raracannot/make_a_dat_icon/releases/download/v0.0.1/make_a_dat_icon-0.0.1.zip",
+      "archive_size": 3890,
+      "archive_hash": "sha256:24b272f93d28c5e86a07e8903e881f94dd6a636b7bc03062d96a0c2feb425be6"
+     },
+     {
+      "schema_version": "1.0.0",
+      "id": "io_c4d_blender",
+      "name": "导入 C4D",
+      "tagline": "通过 Maxon Cineware SDK 导入 Cinema 4D .c4d",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "RARA",
+      "license": [
+       "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.0.0",
+      "website": "https://space.bilibili.com/27284213",
+      "copyright": [
+       "2026 RARA"
+      ],
+      "tags": [
+       "Import-Export"
+      ],
+      "platforms": [
+       "windows-x64"
+      ],
+      "archive_url": "https://github.com/raracannot/io_c4d_blender/releases/download/v0.0.1/io_c4d_blender-0.0.1.zip",
+      "archive_size": 777053,
+      "archive_hash": "sha256:6afc6d1f7705fcb3e82231406ed6830ef30ff31d2bb6be37d4e37f781384477b"
+     }
+    ]
 }
