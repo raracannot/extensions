@@ -317,9 +317,32 @@
      "3D View",
      "Scene"
     ],
-    "archive_url": "https://github.com/raracannot/View3d_Screenshot/releases/download/v0.0.1/view3d_screenshot-0.0.1.zip",
-    "archive_size": 4415,
-    "archive_hash": "sha256:5e655478c4d3c57d026dfd242221b6b850a6e1869bb0ba3d8d48b2f49ac5120f"
-   }
-  ]
+     "archive_url": "https://github.com/raracannot/View3d_Screenshot/releases/download/v0.0.1/view3d_screenshot-0.0.1.zip",
+     "archive_size": 4415,
+     "archive_hash": "sha256:5e655478c4d3c57d026dfd242221b6b850a6e1869bb0ba3d8d48b2f49ac5120f"
+    },
+    {
+     "schema_version": "1.0.0",
+     "id": "make_a_dat_icon",
+     "name": "[开发工具]网格转dat格式图标",
+     "tagline": "开发者专用工具，用于制作或导出blender内部的dat格式图标",
+     "version": "0.0.1",
+     "type": "add-on",
+     "maintainer": "rara",
+     "license": [
+      "SPDX:GPL-3.0-or-later"
+     ],
+     "blender_version_min": "4.0.0",
+     "website": "https://space.bilibili.com/27284213",
+     "copyright": [
+      "2026 rara"
+     ],
+     "tags": [
+      "Development"
+     ],
+     "archive_url": "https://github.com/raracannot/make_a_dat_icon/releases/download/v0.0.1/make_a_dat_icon-0.0.1.zip",
+     "archive_size": 3890,
+     "archive_hash": "sha256:24b272f93d28c5e86a07e8903e881f94dd6a636b7bc03062d96a0c2feb425be6"
+    }
+   ]
 }
