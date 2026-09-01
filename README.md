@@ -31,7 +31,6 @@ https://raracannot.github.io/extensions/index.json
 
 | 扩展 | 版本 | 说明 |
 | --- | --- | --- |
-| ZRemesher | 2.0.4 | 最好最快的重拓扑工具，移植自 Maxon-C4D 原生Zremesher |
 | Better_Experie[更好的体验] | 1.0.6 | 优化原生体验、扩展功能的 Blender 插件合集 |
 | Spot Healing Brush (污点修复笔刷) | 1.0.1 | 基于 AI 的污点修复与智能抠图 |
 | HDRI TOOL | 0.0.3 | 快速设置你的HDRI |
@@ -44,7 +43,6 @@ https://raracannot.github.io/extensions/index.json
 | 一键布线开洞 (CYX) | 1.0.11 | 编辑模式的一键布线开洞 |
 | 彩虹节点曲线 (Shuimeng) | 1.0.6 | 为节点编辑器的相连节点显示彩虹曲线和彩虹边框 |
 | 视口快照 | 0.0.1 | 在3D视图顶部标题栏开启快照对比，设置位于插件偏好设置中 |
-| [开发工具]网格转dat格式图标 | 0.0.1 | 开发者专用工具，用于制作或导出blender内部的dat格式图标 |
 
 ## 更新索引
 
