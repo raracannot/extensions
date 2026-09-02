@@ -366,9 +366,33 @@
        "platforms": [
         "windows-x64"
        ],
-       "archive_url": "https://github.com/raracannot/DLSS5_Image_Filter/releases/download/v0.1.0/dlss5_image_filter-0.1.0.zip",
-       "archive_size": 354236036,
-       "archive_hash": "sha256:36619812d08b305b9ff5637ec3f4c999accb5c578fd9aa5ecb277c2ceccdc719"
-      }
-     ]
+        "archive_url": "https://github.com/raracannot/DLSS5_Image_Filter/releases/download/v0.1.0/dlss5_image_filter-0.1.0.zip",
+        "archive_size": 354236036,
+        "archive_hash": "sha256:36619812d08b305b9ff5637ec3f4c999accb5c578fd9aa5ecb277c2ceccdc719"
+       },
+       {
+        "schema_version": "1.0.0",
+        "id": "cryptomatte_id_color",
+        "name": "简易通道",
+        "tagline": "Create Object ID and Material ID node groups",
+        "version": "1.0.0",
+        "type": "add-on",
+        "maintainer": "61+,rara",
+        "license": [
+         "SPDX:GPL-3.0-or-later"
+        ],
+        "blender_version_min": "5.1.0",
+        "website": "https://space.bilibili.com/27284213",
+        "copyright": [
+         "2026 61+,rara"
+        ],
+        "tags": [
+         "Compositing",
+         "Node"
+        ],
+        "archive_url": "https://github.com/raracannot/Cryptomatte_Id_Color/releases/download/v1.0.0/cryptomatte_id_color-1.0.0.zip",
+        "archive_size": 5700,
+        "archive_hash": "sha256:2e06a31d0810f70c11087c048363330221f10aae93044dcb0762f1045fb97aec"
+       }
+      ]
 }
