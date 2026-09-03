@@ -344,31 +344,31 @@
        "archive_size": 3890,
        "archive_hash": "sha256:24b272f93d28c5e86a07e8903e881f94dd6a636b7bc03062d96a0c2feb425be6"
       },
-       {
-        "schema_version": "1.0.0",
-        "id": "dlss5_image_filter",
-        "name": "DLSS5 Image Filter",
-        "tagline": "图片编辑器 DLSS5 图像增强",
-        "version": "0.1.1",
-        "type": "add-on",
-        "maintainer": "RARA",
-        "license": [
-         "SPDX:GPL-3.0-or-later"
-        ],
-        "blender_version_min": "4.2.0",
-        "website": "https://space.bilibili.com/27284213",
-        "copyright": [
-         "2026 RARA"
-        ],
-        "tags": [
-         "Material"
-        ],
-        "platforms": [
-         "windows-x64"
-        ],
-         "archive_url": "https://github.com/raracannot/DLSS5_Image_Filter/releases/download/v0.1.1/dlss5_image_filter-0.1.1.zip",
-         "archive_size": 354311321,
-         "archive_hash": "sha256:321650d66ffdb68773abf3d4ab68476071a217bc145bad85e73ca581bf2ae3f9"
+        {
+         "schema_version": "1.0.0",
+         "id": "dlss5_image_filter",
+         "name": "DLSS5 Image Filter",
+         "tagline": "图片编辑器 DLSS5 图像增强",
+         "version": "0.1.2",
+         "type": "add-on",
+         "maintainer": "RARA",
+         "license": [
+          "SPDX:GPL-3.0-or-later"
+         ],
+         "blender_version_min": "4.2.0",
+         "website": "https://space.bilibili.com/27284213",
+         "copyright": [
+          "2026 RARA"
+         ],
+         "tags": [
+          "Material"
+         ],
+         "platforms": [
+          "windows-x64"
+         ],
+         "archive_url": "https://github.com/raracannot/DLSS5_Image_Filter/releases/download/v0.1.2/dlss5_image_filter-0.1.2.zip",
+         "archive_size": 354311820,
+         "archive_hash": "sha256:26bb045f0f64e74e96b954c7a89eb8ab2914eb2e694241a8376917cc028d5e01"
         },
         {
          "schema_version": "1.0.0",

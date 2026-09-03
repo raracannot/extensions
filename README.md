@@ -43,7 +43,7 @@ https://raracannot.github.io/extensions/index.json
 | 一键布线开洞 (CYX) | 1.0.11 | 编辑模式的一键布线开洞 |
 | 彩虹节点曲线 (Shuimeng) | 1.0.6 | 为节点编辑器的相连节点显示彩虹曲线和彩虹边框 |
 | 视口快照 | 0.0.1 | 在3D视图顶部标题栏开启快照对比，设置位于插件偏好设置中 |
-| DLSS5 Image Filter | 0.1.1 | 图片编辑器 DLSS5 图像增强 |
+| DLSS5 Image Filter | 0.1.2 | 图片编辑器 DLSS5 图像增强 |
 | 简易通道 | 1.0.0 | Create Object ID and Material ID node groups |
 
 ## 更新索引
