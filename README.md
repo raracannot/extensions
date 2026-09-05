@@ -35,7 +35,7 @@ https://raracannot.github.io/extensions/index.json
 | Spot Healing Brush (污点修复笔刷) | 1.0.1 | 基于 AI 的污点修复与智能抠图 |
 | HDRI TOOL | 0.0.3 | 快速设置你的HDRI |
 | [test][开发中]网格编辑工具集 | 2.3.2 | 网格编辑工具集 |
-| MoI 3D Bridge | 0.0.1 | 通过 MoI 3D 后台转换并导入 STP 和 3DM 文件 |
+| MoI 3D Bridge | 0.0.2 | 通过 MoI 3D 后台转换并导入 STP 和 3DM 文件 |
 | 专业灯光 HUD | 0.0.2 | 优化界面灯光HUD，还你最纯净的打光体验 |
 | 导入PDF | 1.0.0 | 导入PDF为曲线 |
 | 挤出边 (CYX) | 1.9.15 | Extrude selected mesh edges with live width and height controls |
