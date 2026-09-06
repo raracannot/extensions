@@ -45,6 +45,7 @@ https://raracannot.github.io/extensions/index.json
 | 视口快照 | 0.0.1 | 在3D视图顶部标题栏开启快照对比，设置位于插件偏好设置中 |
 | DLSS5 Image Filter | 0.1.2 | 图片编辑器 DLSS5 图像增强 |
 | 简易通道 | 1.0.0 | Create Object ID and Material ID node groups |
+| SKP Importer [导入SketchUp工程] | 0.1.0 | .skp文件导入导出、无需额外依赖 |
 
 ## 更新索引
 

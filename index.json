@@ -390,9 +390,32 @@
          "Compositing",
          "Node"
         ],
-        "archive_url": "https://github.com/raracannot/Cryptomatte_Id_Color/releases/download/v1.0.0/cryptomatte_id_color-1.0.0.zip",
-        "archive_size": 5700,
-        "archive_hash": "sha256:2e06a31d0810f70c11087c048363330221f10aae93044dcb0762f1045fb97aec"
-       }
-      ]
+         "archive_url": "https://github.com/raracannot/Cryptomatte_Id_Color/releases/download/v1.0.0/cryptomatte_id_color-1.0.0.zip",
+         "archive_size": 5700,
+         "archive_hash": "sha256:2e06a31d0810f70c11087c048363330221f10aae93044dcb0762f1045fb97aec"
+        },
+        {
+         "schema_version": "1.0.0",
+         "id": "import_skp_by_sketchup",
+         "name": "SKP Importer [导入SketchUp工程]",
+         "tagline": ".skp文件导入导出、无需额外依赖",
+         "version": "0.1.0",
+         "type": "add-on",
+         "maintainer": "RARA",
+         "license": [
+          "SPDX:GPL-3.0-or-later"
+         ],
+         "blender_version_min": "4.2.0",
+         "website": "https://space.bilibili.com/27284213",
+         "copyright": [
+          "2026 RARA"
+         ],
+         "tags": [
+          "Import-Export"
+         ],
+         "archive_url": "https://github.com/raracannot/import_skp_by_sketchup/releases/download/v0.1.0/import_skp_by_sketchup-0.1.0.zip",
+         "archive_size": 6815271,
+         "archive_hash": "sha256:2ff4f5e4d2eb984d3f871d5bbe59798bf030ed90ccc23dc5b0abb0195b265637"
+        }
+       ]
 }
