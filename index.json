@@ -79,38 +79,38 @@
    "archive_size": 69321129,
    "archive_hash": "sha256:c8e2dce738d05980b5c75e6d1c439a1f76df7a7b7040662a3c3206add41b60c4"
   },
-  {
-   "schema_version": "1.0.0",
-   "id": "better_experie",
-   "name": "Better_Experie[更好的体验]",
-   "tagline": "Improve user experience",
-   "version": "1.0.6",
-   "type": "add-on",
-   "maintainer": "来一点咖啡吗",
-   "license": [
-    "SPDX:GPL-3.0-or-later"
-   ],
-   "blender_version_min": "4.5.0",
-   "website": "https://space.bilibili.com/27284213",
-   "copyright": [
-    "2026 来一点咖啡吗"
-   ],
-   "tags": [
-    "3D View",
-    "Camera",
-    "Compositing",
-    "Mesh",
-    "Object",
-    "Scene",
-    "Sequencer",
-    "System",
-    "Text Editor",
-    "User Interface"
-   ],
-   "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.6/better_experie-1.0.6.zip",
-   "archive_size": 717544,
-   "archive_hash": "sha256:f81e7996ba6ff35bf105314d53eb90c5fc1d46b203819ce0590d1ded3ee8795f"
-  },
+   {
+    "schema_version": "1.0.0",
+    "id": "better_experie",
+    "name": "Better_Experie[更好的体验]",
+    "tagline": "Improve user experience",
+    "version": "1.0.7",
+    "type": "add-on",
+    "maintainer": "来一点咖啡吗",
+    "license": [
+     "SPDX:GPL-3.0-or-later"
+    ],
+    "blender_version_min": "4.5.0",
+    "website": "https://space.bilibili.com/27284213",
+    "copyright": [
+     "2026 来一点咖啡吗"
+    ],
+    "tags": [
+     "3D View",
+     "Camera",
+     "Compositing",
+     "Mesh",
+     "Object",
+     "Scene",
+     "Sequencer",
+     "System",
+     "Text Editor",
+     "User Interface"
+    ],
+     "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.0.7/better_experie-1.0.7.zip",
+     "archive_size": 717586,
+     "archive_hash": "sha256:cab0b093f0fc3484c755ad664880cf7523b4bfc8ccfddca35fa69fe8626ec507"
+    },
   {
    "schema_version": "1.0.0",
    "id": "spot_healing_brush",
