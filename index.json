@@ -396,7 +396,7 @@
         },
         {
          "schema_version": "1.0.0",
-         "id": "import_skp_by_sketchup",
+         "id": "import_sketchup",
          "name": "SKP Importer [导入SketchUp工程]",
          "tagline": ".skp文件导入导出、无需额外依赖",
          "version": "0.1.0",
@@ -413,9 +413,9 @@
          "tags": [
           "Import-Export"
          ],
-         "archive_url": "https://github.com/raracannot/import_skp_by_sketchup/releases/download/v0.1.0/import_skp_by_sketchup-0.1.0.zip",
-         "archive_size": 6815271,
-         "archive_hash": "sha256:2ff4f5e4d2eb984d3f871d5bbe59798bf030ed90ccc23dc5b0abb0195b265637"
+         "archive_url": "https://github.com/raracannot/import_sketchup/releases/download/v0.1.0/import_sketchup-0.1.0.zip",
+         "archive_size": 6815403,
+         "archive_hash": "sha256:0b4d7ee2f33f3824a31c28a92ed3003116a00d76f5b3f82cd4a307df343e0112"
         }
        ]
 }
