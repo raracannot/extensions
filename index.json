@@ -7,7 +7,7 @@
     "id": "import_stp_by_moi",
     "name": "MoI 3D Bridge",
     "tagline": "通过 MoI 3D 后台转换并导入 STP 和 3DM 文件",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "add-on",
     "maintainer": "来一点咖啡吗(RARA)",
     "license": [
@@ -21,9 +21,12 @@
     "tags": [
      "Import-Export"
     ],
-    "archive_url": "https://github.com/raracannot/import_stp_by_moi/releases/download/v0.0.2/import_stp_by_moi-0.0.2.zip",
-    "archive_size": 9654,
-    "archive_hash": "sha256:10acd95aae2867d769ce6201e45a4a368bcac8a9182e88f6d58230b48a8501af"
+    "platforms": [
+     "windows-x64"
+    ],
+    "archive_url": "https://github.com/raracannot/import_stp_by_moi/releases/download/v0.0.3/import_stp_by_moi-0.0.3.zip",
+    "archive_size": 5143964,
+    "archive_hash": "sha256:5ae08c3b8e68754c37303d298417a0b9b6d204013f6492b42c7929752162d29b"
    },
   {
    "schema_version": "1.0.0",
