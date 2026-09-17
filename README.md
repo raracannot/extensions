@@ -46,6 +46,7 @@ https://raracannot.github.io/extensions/index.json
 | DLSS5 Image Filter | 0.1.2 | 图片编辑器 DLSS5 图像增强 |
 | 简易通道 | 1.0.0 | Create Object ID and Material ID node groups |
 | SKP Importer [导入SketchUp工程] | 0.1.2 | .skp文件导入导出、无需额外依赖 |
+| 更多的节点 | 0.0.1 | 更多更好的的节点 |
 
 ## 更新索引
 

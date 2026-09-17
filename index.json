@@ -422,6 +422,31 @@
          "archive_url": "https://github.com/raracannot/import_sketchup/releases/download/v0.1.2/import_sketchup-0.1.2.zip",
          "archive_size": 6815377,
          "archive_hash": "sha256:e5a3804ba180ba7bd86732349889f0648d35677a0a0c1969e049b3c5f7c89bd1"
+        },
+        {
+         "schema_version": "1.0.0",
+         "id": "extension_nodes",
+         "name": "更多的节点",
+         "tagline": "更多更好的的节点",
+         "version": "0.0.1",
+         "type": "add-on",
+         "maintainer": "RARA",
+         "license": [
+          "SPDX:GPL-3.0-or-later"
+         ],
+         "blender_version_min": "4.0.0",
+         "website": "https://space.bilibili.com/27284213",
+         "copyright": [
+          "2026 RARA"
+         ],
+         "tags": [
+          "3D View",
+          "Object",
+          "Scene"
+         ],
+         "archive_url": "https://github.com/raracannot/Extension_Nodes/releases/download/v0.0.1/extension_nodes-0.0.1.zip",
+         "archive_size": 45040,
+         "archive_hash": "sha256:942684e8e6b520cef4ef64e333681c89a5853b2b9292fcb0f1c5a24c069b751d"
         }
        ]
 }
