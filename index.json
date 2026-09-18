@@ -447,6 +447,29 @@
          "archive_url": "https://github.com/raracannot/Extension_Nodes/releases/download/v0.0.1/extension_nodes-0.0.1.zip",
          "archive_size": 45460,
          "archive_hash": "sha256:eece7339b203a8ff8834f618712cadd15de6378c620b779740bc0fc29b81a4c5"
+        },
+        {
+         "schema_version": "1.0.0",
+         "id": "animated_node_delete",
+         "name": "Animated Node Delete 节点删除动效",
+         "tagline": "带有动画效果的节点删除工具",
+         "version": "0.0.8",
+         "type": "add-on",
+         "maintainer": "RARA",
+         "license": [
+          "SPDX:GPL-3.0-or-later"
+         ],
+         "blender_version_min": "4.0.0",
+         "website": "https://space.bilibili.com/27284213",
+         "copyright": [
+          "2026 RARA"
+         ],
+         "tags": [
+          "Node"
+         ],
+         "archive_url": "https://github.com/raracannot/Animated_Node_Delete/releases/download/v0.0.8/animated_node_delete-0.0.8.zip",
+         "archive_size": 5465,
+         "archive_hash": "sha256:89b0b18bff2e0bdd948268e43c8450768fe55296067481a44cf1328648040231"
         }
        ]
 }

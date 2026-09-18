@@ -47,6 +47,7 @@ https://raracannot.github.io/extensions/index.json
 | 简易通道 | 1.0.0 | Create Object ID and Material ID node groups |
 | SKP Importer [导入SketchUp工程] | 0.1.2 | .skp文件导入导出、无需额外依赖 |
 | 更多的节点 | 0.0.1 | 更多更好的的节点 |
+| Animated Node Delete 节点删除动效 | 0.0.8 | 带有动画效果的节点删除工具 |
 
 ## 更新索引
 
