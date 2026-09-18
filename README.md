@@ -48,6 +48,7 @@ https://raracannot.github.io/extensions/index.json
 | SKP Importer [导入SketchUp工程] | 0.1.2 | .skp文件导入导出、无需额外依赖 |
 | 更多的节点 | 0.0.1 | 更多更好的的节点 |
 | Animated Node Delete 节点删除动效 | 0.0.8 | 带有动画效果的节点删除工具 |
+| FeiQ Blender Link（局域网互传） | 1.1.0 | 局域网协作：共享物体、聊天、传输文件 |
 
 ## 更新索引
 

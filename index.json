@@ -470,6 +470,32 @@
          "archive_url": "https://github.com/raracannot/Animated_Node_Delete/releases/download/v0.0.8/animated_node_delete-0.0.8.zip",
          "archive_size": 5465,
          "archive_hash": "sha256:89b0b18bff2e0bdd948268e43c8450768fe55296067481a44cf1328648040231"
+        },
+        {
+         "schema_version": "1.0.0",
+         "id": "feiq_blender_link",
+         "name": "FeiQ Blender Link（局域网互传）",
+         "tagline": "局域网协作：共享物体、聊天、传输文件",
+         "version": "1.1.0",
+         "type": "add-on",
+         "maintainer": "rara",
+         "license": [
+          "SPDX:GPL-3.0-or-later"
+         ],
+         "blender_version_min": "4.0.0",
+         "website": "https://space.bilibili.com/27284213",
+         "copyright": [
+          "2026 rara"
+         ],
+         "tags": [
+          "3D View",
+          "Import-Export",
+          "Object",
+          "Scene"
+         ],
+         "archive_url": "https://github.com/raracannot/feiq_blender_link/releases/download/v1.1.0/feiq_blender_link-1.1.0.zip",
+         "archive_size": 13820,
+         "archive_hash": "sha256:22d5d47e15feaf8623e168c1b3ac081b2dbcc25ddff9d534ae9900e967fe404b"
         }
        ]
 }
