@@ -84,7 +84,7 @@
     "id": "better_experie",
     "name": "Better_Experie[更好的体验]",
     "tagline": "Improve user experience",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "type": "add-on",
     "maintainer": "来一点咖啡吗",
     "license": [
@@ -107,9 +107,9 @@
      "Text Editor",
      "User Interface"
     ],
-      "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.1.5/better_experie-1.1.5.zip",
-      "archive_size": 767060,
-      "archive_hash": "sha256:5efa17dbdad0e121453e2d9c902bcb3810e976e2ff258c34ce0159bff6a70646"
+      "archive_url": "https://github.com/raracannot/Better_Experie/releases/download/v1.1.6/better_experie-1.1.6.zip",
+      "archive_size": 788252,
+      "archive_hash": "sha256:8898296f51e14e0c94e6aa4e5d4bce38fd48775658242eda0649b9f293399b67"
     },
   {
    "schema_version": "1.0.0",
