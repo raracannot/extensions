@@ -50,6 +50,7 @@ https://raracannot.github.io/extensions/index.json
 | Animated Node Delete 节点删除动效 | 0.0.8 | 带有动画效果的节点删除工具 |
 | FeiQ Blender Link（局域网互传） | 1.1.0 | 局域网协作：共享物体、聊天、传输文件 |
 | 插件启动耗时分析 (Shuime) | 1.0.1 | 无需修改Blender本体源代码，记录插件启用耗时 |
+| HDRI Sun Tool | 1.3.3 | HDRI 太阳对齐、灯光匹配、偏航跟随 |
 
 ## 更新索引
 
