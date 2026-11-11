@@ -51,6 +51,7 @@ https://raracannot.github.io/extensions/index.json
 | FeiQ Blender Link（局域网互传） | 1.1.0 | 局域网协作：共享物体、聊天、传输文件 |
 | 插件启动耗时分析 (Shuime) | 1.0.1 | 无需修改Blender本体源代码，记录插件启用耗时 |
 | HDRI Sun Tool | 1.3.3 | HDRI 太阳对齐、灯光匹配、偏航跟随 |
+| Edit Poly Modifier [编辑多边形修改器] | 1.0.6 | 通过缓存物体编辑网格，编辑结果实时应用 |
 
 ## 更新索引
 
