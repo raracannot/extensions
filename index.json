@@ -567,6 +567,30 @@
          "archive_url": "https://github.com/raracannot/edit_mesh_modifier/releases/download/v1.0.6/edit_mesh_modifier-1.0.6.zip",
          "archive_size": 182283,
          "archive_hash": "sha256:5e9d79a6795fdb7cdf748afb9c9f06d08e4e8c17a7d5c5027e07234884458ebe"
+        },
+        {
+         "schema_version": "1.0.0",
+         "id": "n_panel_manager",
+         "name": "N Panel Manager",
+         "tagline": "隐藏侧边栏 N 面板并合并多个标签",
+         "version": "1.0.0",
+         "type": "add-on",
+         "maintainer": "DeepSeek Harness <noreply@example.com>",
+         "license": [
+          "SPDX:GPL-3.0-or-later"
+         ],
+         "blender_version_min": "4.2.0",
+         "website": "https://extensions.blender.org/",
+         "copyright": [
+          "2026 DeepSeek Harness"
+         ],
+         "tags": [
+          "3D View",
+          "User Interface"
+         ],
+         "archive_url": "https://raw.githubusercontent.com/raracannot/CN_Blender_Tech_Hub_Assets/main/n_panel_manager-1.0.0.zip",
+         "archive_size": 31585,
+         "archive_hash": "sha256:1f5df016c8dfde218c0de822eba3baca7f60316b23536d50951cd3b2888f917a"
         }
        ]
 }
